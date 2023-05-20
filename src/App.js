@@ -1,5 +1,4 @@
 import React from 'react'
-import Sidenav from './Components/Sidenav'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from './Components/Home'
 import Settings from './Components/Settings'
